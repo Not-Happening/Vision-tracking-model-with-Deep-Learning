@@ -33,7 +33,8 @@ This project is focused on building a deep learning model to track the movement 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo_name.git
+   git clone https://github.com/Not-Happening/Vision-tracking-model-with-Deep-Learning
+.git
 
 ## Contributions:
 - ** Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
